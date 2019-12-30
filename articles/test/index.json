@@ -1,5 +1,10 @@
 {
     "title":"hacker",
+    "summary":"by the definition of hakcer from Richard Stallman, the hacker is the person who enjoy playful cleverness.",
+    "tags":[
+        "hacker",
+        "Richard stallman"
+    ],
     "pages":[
         "0.md",
         "1.md"
