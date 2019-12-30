@@ -1,0 +1,15 @@
+{
+    "title": "TachyOS - Embedded Operating System",
+    "tags": [
+        "operating system",
+        "microkernel architecture",
+        "cmsis-rtos"
+    ],
+    "description": "Memory Efficient C data structure library which can be easily ported to baremetal target.",
+    "year": 2015,
+    "opensource": {
+        "type":"github",
+        "name":"cdsl",
+        "url":"https://github.com/fritzprix/cdsl"
+    }
+}

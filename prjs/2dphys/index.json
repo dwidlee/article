@@ -1,0 +1,14 @@
+{
+    "title": "2D physics particle simulation (Java)",
+    "tags":[
+        "Java Swing",
+        "GUI",
+        "Physics Simuation"
+    ],
+    "description":"Simple 2D ball collision simulator written in Java",
+    "year": 2009,
+    "media": {
+        "id": "nnm3X7FCOgw",
+        "source": "youtube"
+    }
+}

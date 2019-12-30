@@ -1,0 +1,16 @@
+{
+    "title": "Music visualization lamp",
+    "tags": [
+        "ARM Cortex-M4",
+        "Bluetooth",
+        "Embedded Software",
+        "Deadmau5",
+        "Android Programming"
+    ],
+    "description": "Bluetooth connected device which visualizes audio data by coloring LED lamp based on the dominant frequency from the spectrum. To implement this proof-of-concept, I have to write both ARM baremetal program which gets command and data from the Android phone via bluetooth and Android GUI Application which sends command and data to the board",
+    "year": 2011,
+    "media": {
+        "id": "_VM1uApeXJE",
+        "source": "youtube"
+    }
+}
