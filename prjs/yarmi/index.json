@@ -8,6 +8,8 @@
         "mDNS-SD"
     ],
     "description": "RMI (Remote Method Invocation) framework provides service discovery out-of-box. client can discover server exposing predefined service interface with provided service discovery mechanism (based on mDNS-SD) within same network range. in this way, a number of IOT device, whose functionality itself is limited, can provide cooperatively more complex service.",
+    "detail":"detail",
+    "summary":"summary.md",
     "year": 2018,
     "opensource": {
         "type":"github",

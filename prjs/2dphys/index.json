@@ -6,6 +6,7 @@
         "Physics Simuation"
     ],
     "description":"Simple 2D ball collision simulator written in Java",
+    "detail":"detail",
     "year": 2009,
     "media": {
         "id": "nnm3X7FCOgw",

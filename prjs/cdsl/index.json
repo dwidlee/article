@@ -6,6 +6,8 @@
         "balanced tree"
     ],
     "description": "Memory Efficient C data structure library which can be easily ported to baremetal target.",
+    "detail":"detail",
+    "summary":"summary.md",
     "year": 2015,
     "opensource": {
         "type":"github",
