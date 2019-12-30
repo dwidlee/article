@@ -5,7 +5,7 @@
         "microkernel architecture",
         "cmsis-rtos"
     ],
-    "description": "Memory Efficient C data structure library which can be easily ported to baremetal target.",
+    "description": "Lightweight operating system for constrained hardware",
     "detail":"detail",
     "summary":"summary.md",
     "year": 2015,
