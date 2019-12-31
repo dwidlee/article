@@ -5,7 +5,7 @@
         "microkernel architecture",
         "cmsis-rtos"
     ],
-    "description": "Lightweight operating system for constrained hardware",
+    "description": "RTOS based on microkernel architecture portable various constrained hardware",
     "detail":"detail",
     "summary":"summary.md",
     "year": 2015,
