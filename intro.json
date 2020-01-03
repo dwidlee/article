@@ -22,6 +22,11 @@
             "type":"facebook",
             "color":"blue",
             "url":"https://www.facebook.com/doowoong"
+        },
+        {
+            "type":"mail",
+            "color":"yellow",
+            "url":"mailto:manics99@naver.com"
         }
     ]
 }
